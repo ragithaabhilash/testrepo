@@ -1,4 +1,6 @@
 git init-> initialize git to present folder
 git status-> list all untracked files
 git add -A-> add all untracked files
-git commit -m "msg"-> from SA to local area
+git commit -m "msg"-> from SA to local 
+git remote add name path
+git push -u name branch
